@@ -2,3 +2,12 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+ul.nav {
+    display: flex;
+  }
+  li.nav{
+    list-style: none;
+    margin-left: 20px;
+  }
+  
