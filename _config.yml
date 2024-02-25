@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: 明治学院大学 情報数理学部
 description: 情報と数理の力で、人が主役のAI社会を創る。
+logo: MI_logo_e.png
 github:
   is_project_page: false
