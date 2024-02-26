@@ -1,9 +1,9 @@
 ---
 ---
 
-@import 'jekyll-theme-cayman';
+$header-bg-color: #eed9ce;
 
-$header-bg-color: #eed9ce !default;
+@import 'jekyll-theme-cayman';
 
 ul.nav {
     display: flex;
