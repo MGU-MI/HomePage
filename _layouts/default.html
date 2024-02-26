@@ -32,26 +32,28 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <ul class="nav">
-        <li>
-          <a href={{ "/index.html" | relative_url }}>Top</a>
-        </li>
-        <li class="nav">
-          <a href={{ "/curriculum.html" | relative_url }}>カリキュラム</a>
-        </li>
-        <li class="nav">
-          <a href={{ "/faculty.html" | relative_url }}>教員紹介</a>
-        </li>
-        <li class="nav">
-          <a href={{ "/career.html" | relative_url }}>就職と進路</a>
-        </li>
-        <li class="nav">
-          <a href={{ "/admissions.html" | relative_url }}>受験生の方へ</a>
-        </li>
-        <li class="nav">
-          <a href={{ "/students.html" | relative_url }}>在校生の方へ</a>
-        </li>
-      </ul>
+      <table>
+        <tr>
+          <th>
+            <a href={{ "/index.html" | relative_url }}>Top</a>
+          </th>
+          <th>
+            <a href={{ "/curriculum.html" | relative_url }}>カリキュラム</a>
+          </th>
+          <th>
+            <a href={{ "/faculty.html" | relative_url }}>教員紹介</a>
+          </th>
+          <th>
+            <a href={{ "/career.html" | relative_url }}>就職と進路</a>
+          </th>
+          <th>
+            <a href={{ "/admissions.html" | relative_url }}>受験生の方へ</a>
+          </th>
+          <th>
+            <a href={{ "/students.html" | relative_url }}>在校生の方へ</a>
+          </th>
+        </tr>
+      </table>
 
       {{ content }}
 
