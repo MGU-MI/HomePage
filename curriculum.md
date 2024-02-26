@@ -2,6 +2,7 @@
 layout: default
 ---
 
+![](assets/images/wordcloud.png)
 
 # 情報数理学科のカリキュラム
 
