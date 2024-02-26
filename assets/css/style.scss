@@ -12,7 +12,7 @@ $header-bg-color-secondary: #c18463;
     text-align: center;
     padding: 60px 0;
     background: url({{ "assets/images/MI_network.png" | relative_url }}) no-repeat left -10px, linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
-    background-size:73% auto
+    background-size:73% auto;
 
     @include large {
       padding: 5rem 6rem;
