@@ -2,9 +2,10 @@
 layout: default
 ---
 
-![](assets/images/wordcloud.png)
 
 # 情報数理学科のカリキュラム
+
+![Word Cloud](assets/images/wordcloud.png)
 
 ## 3つのコースと実践的なPBLで、人と社会に貢献する先端IT人材を育てる
 
