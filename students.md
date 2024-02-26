@@ -18,6 +18,8 @@ layout: default
 
 ## 利用可能なソフトウェアとサービス
 
+情報数理学部の学生は以下のソフトウェアライセンスやサービスを在学期間中に利用することができます。
+
 ### [Microsoft 365](https://www.microsoft.com/ja-jp/microsoft-365)
 
 ### [MATLAB](https://jp.mathworks.com/products/matlab.html)
