@@ -5,11 +5,11 @@
 $header-bg-color: #eed9ce;
 $header-bg-color-secondary: #c18463;
 
+@import 'jekyll-theme-cayman';
+
 // Text
 $section-headings-color: #63C1A9;
 $body-link-color: #6367C1
-
-@import 'jekyll-theme-cayman';
 
 ul.nav {
     display: flex;
