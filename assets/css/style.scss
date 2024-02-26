@@ -10,8 +10,8 @@ $header-bg-color-secondary: #c18463;
 .mi-page-header {
     color: $header-heading-color;
     text-align: center;
-    background: url({{ "assets/images/MI_network.png" | relative_url }}) no-repeat left -10px, linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
-    background-size: 73% auto;
+    background: url({{ "assets/images/MI_network.png" | relative_url }}) no-repeat left, linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+    background-size: 100%;
 
     @include large {
       padding: 5rem 6rem;
