@@ -37,41 +37,41 @@ layout: default
 理系の学科でも本を読むことは大切で、技術文書や仕様書などの読み書きにも役立ちます。また、難しい数学や理論を学ぶときには、啓蒙書や解説書を読んでそのイメージをつかんでおくことも理解の助けになります。以下にあげたような本を入学前にぜひ手に取ってみてください。
 
 ### 論理、数学、量子情報
-- 寺阪英孝 (2014) 『非ユークリッド幾何の世界（新装版）』 講談社
-https://bookclub.kodansha.co.jp/product?item=0000194841
+- [寺阪英孝 (2014) 『非ユークリッド幾何の世界（新装版）』 講談社]
+(https://bookclub.kodansha.co.jp/product?item=0000194841)
 
-- 野矢茂樹 (2001) 『論理トレーニング101題』 産業図書
-https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=128
+- [野矢茂樹 (2001) 『論理トレーニング101題』 産業図書]
+(https://www.lib.hokudai.ac.jp/book/index_detail.php?SSID=128)
 
-- 『特集　量子もつれ実証　アインシュタインの夢 ついえる』(日経サイエンス2019年02月号) 
-https://www.nikkei-science.com/page/magazine/201902.html
+- [『特集　量子もつれ実証　アインシュタインの夢 ついえる』(日経サイエンス2019年02月号)]
+(https://www.nikkei-science.com/page/magazine/201902.html)
 
-- 武田俊太郎 (2020) 『量子コンピュータが本当にわかる！』 技術評論社
-https://gihyo.jp/book/2020/978-4-297-11135-9
+- [武田俊太郎 (2020) 『量子コンピュータが本当にわかる！』 技術評論社]
+(https://gihyo.jp/book/2020/978-4-297-11135-9)
 
 ### AI、データサイエンス
-- 松尾豊 (2019) 『超AI入門―ディープラーニングはどこまで進化するのか』 NHK出版
-https://www.nhk-book.co.jp/detail/000000817712019.html
+- [松尾豊 (2019) 『超AI入門―ディープラーニングはどこまで進化するのか』 NHK出版]
+(https://www.nhk-book.co.jp/detail/000000817712019.html)
 
-- マーカス・デュ・ソートイ (2020) 『レンブラントの身震い』 新潮社
-https://www.shinchosha.co.jp/book/590169/
+- [マーカス・デュ・ソートイ (2020) 『レンブラントの身震い』 新潮社]
+(https://www.shinchosha.co.jp/book/590169/)
 
-- 西内啓 (2013) 『統計学が最強の学問である』 ダイヤモンド社
-https://www.diamond.co.jp/book/9784478022214.html
+- [西内啓 (2013) 『統計学が最強の学問である』 ダイヤモンド社]
+(https://www.diamond.co.jp/book/9784478022214.html)
 
-- 北川源四郎／竹村彰通・編 (2021) 『教養としてのデータサイエンス』 講談社
-https://www.kspub.co.jp/book/detail/5238097.html
+- [北川源四郎／竹村彰通・編 (2021) 『教養としてのデータサイエンス』 講談社]
+(https://www.kspub.co.jp/book/detail/5238097.html)
 
 ### アルゴリズム、計算理論、情報システム、情報セキュリティ
-- 高岡詠子 (2014) 『チューリングの計算理論入門』 講談社
-https://bookclub.kodansha.co.jp/product?item=0000194812
+- [高岡詠子 (2014) 『チューリングの計算理論入門』 講談社]
+(https://bookclub.kodansha.co.jp/product?item=0000194812)
 
-- Wladston Ferreira Filho (2019) 『みんなのコンピュータサイエンス』 翔泳社
-https://www.shoeisha.co.jp/book/detail/9784798154817
+- [Wladston Ferreira Filho (2019) 『みんなのコンピュータサイエンス』 翔泳社]
+(https://www.shoeisha.co.jp/book/detail/9784798154817)
 
-- ブライアン・カーニハン (2022) 『教養としてのコンピューターサイエンス講義』 日経BP
-https://bookplus.nikkei.com/atcl/catalog/22/04/24/00110/
+- [ブライアン・カーニハン (2022) 『教養としてのコンピューターサイエンス講義』 日経BP]
+(https://bookplus.nikkei.com/atcl/catalog/22/04/24/00110/)
 
-- サイモン・シン (2007)  『暗号解読（上・下）』 新潮社
-https://www.shinchosha.co.jp/book/215972/
-https://www.shinchosha.co.jp/book/215973/
+- [サイモン・シン (2007)  『暗号解読（上・下）』 新潮社]
+(https://www.shinchosha.co.jp/book/215972/)
+<!--　https://www.shinchosha.co.jp/book/215973/ -->
