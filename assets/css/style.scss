@@ -28,4 +28,9 @@ $header-bg-color-secondary: #eed9ce;
 
 .mi-member-box {
   display: flex;
+  justify-content: space-between;
+}
+
+.mi-member-text {
+  text-align: left;
 }

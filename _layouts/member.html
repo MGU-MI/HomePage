@@ -54,8 +54,10 @@
       </table>
       
       <div class="mi-member-box">
-        <h1>{{ page.name }} {{ page.position }}</h1>
-        <h2>{{ page.eng_name }}</h2>
+        <div class="mi-member-text">
+          <h1>{{ page.name }} {{ page.position }}</h1>
+          <h2>{{ page.eng_name }}</h2>
+        </div>
         <img src="{{ page.photo  | relative_url }}" width="100px">
       </div>
       <h3>学位</h3>
