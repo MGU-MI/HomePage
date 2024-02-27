@@ -12,6 +12,7 @@ keywords:
     - 位相幾何学
     - グラフ理論
 link: https://researchmap.jp/kazutoshi_ohta
+photo: assets/photos/ohta.jpg
 ---
 
 ### 研究紹介
