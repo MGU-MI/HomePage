@@ -1,14 +1,27 @@
 ---
 ---
 
+// Headers
+$header-bg-color: #fdfae9;
+$header-bg-color-secondary: #eed9ce;
+
 @import 'jekyll-theme-cayman';
 
-ul.nav {
-    display: flex;
-}
+.mi-page-header {
+    color: $header-heading-color;
+    text-align: center;
+    background: url({{ "assets/images/MI_network.png" | relative_url }}) no-repeat left, linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+    background-size: 100%;
 
-li.nav{
-    list-style: none;
-    margin-left: 20px;
-}
+    @include large {
+      padding: 5rem 6rem;
+    }
   
+    @include medium {
+      padding: 3rem 4rem;
+    }
+  
+    @include small {
+      padding: 2rem 1rem;
+    }
+  }
