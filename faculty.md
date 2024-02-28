@@ -6,7 +6,8 @@ layout: default
 
 教員一覧を掲載しています。研究分野/研究内容/想定される卒業研究テーマなどの詳細情報もご覧いただけます。
 
-{% for member in site.faculty_members %}
+{% assign sorted = site.faculty_members | sort: "kana" %}
+{% for member in sorted %}
   <h2><a href="{{ member.url | relative_url }}">{{ member.name }} / {{ member.eng_name }}</a></h2>
   {{ member.field }}
   <table>
