@@ -1,6 +1,7 @@
 ---
 layout: member
 name: 太田 和俊
+kana: おおた かずとし
 eng_name: Kazutoshi Ohta
 position: 教授
 degree: 博士(理学)
