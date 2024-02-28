@@ -13,7 +13,7 @@ keywords:
     - 生成系AIを活用した脳内イメージ可視化・ヒトとAIの共創
     - AIによる異常検知
 link:
-photo: assets/photos/ni.jpg
+photo: assets/photos/ni.png
 ---
 
 ### 研究紹介

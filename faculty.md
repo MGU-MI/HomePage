@@ -8,7 +8,7 @@ layout: default
 
 {% assign sorted = site.faculty_members | sort: "kana" %}
 {% for member in sorted %}
-  <h2><a href="{{ member.url | relative_url }}">{{ member.name }} / {{ member.eng_name }}</a></h2>
+  <h2><a href="{{ member.url | relative_url }}">{{ member.name }} {{ member.eng_name }}</a></h2>
   {{ member.field }}
   <table>
     <tr>

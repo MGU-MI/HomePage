@@ -13,7 +13,7 @@ keywords:
     - グリーンコンピューティング
     - サイバーフィジカルシステム
 link:
-photo: assets/photos/ni.jpg
+photo: assets/photos/ni.png
 ---
 
 ### 研究紹介
