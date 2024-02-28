@@ -5,7 +5,7 @@ kana: おおた かずとし
 eng_name: Kazutoshi Ohta
 position: 教授
 degree: 博士(理学)
-field: 理論物理学(素粒子論)
+field: 理論物理学
 keywords:
     - 超対称ゲージ理論
     - 超弦理論
