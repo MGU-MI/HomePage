@@ -41,16 +41,6 @@ $header-bg-color-secondary: #eed9ce;
   }
 }
 
-.mi-menus a::after {
-  transform: scale(0, 1);
-  transform-origin: center top;
-  transition: transform 0.3s;
-}
-  
-.mi-menus a:hover::after {
-  transform: scale(1, 1);
-}
-
 .mi-member-box {
   display: flex;
   justify-content: relative;
