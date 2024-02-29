@@ -12,7 +12,7 @@ layout: default
     <img src="{{ member.photo  | relative_url }}" width="100px">
     <div class="mi-member-text">
       <h3><a href="{{ member.url | relative_url }}">{{ member.name }} {{ member.eng_name }}</a></h3>
-      {{ member.field }}
+      <h4>{{ member.field }}</h4>
       {% for key in member.keywords %}
         <span class="mi-keywords">{{ key }}</span>
       {% endfor %}
