@@ -4,10 +4,11 @@ layout: default
 
 # ニュース
 
-<ul>
+<dl>
   {% for post in site.posts %}
-    <li>
+    <dt>{{ post.date　| date: "%Y年%m月%d日" }}</dt>
+    <dd>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
+    </dd>
   {% endfor %}
-</ul>
+</dl>
