@@ -32,10 +32,21 @@ $header-bg-color-secondary: #eed9ce;
   padding: 10%
 }
 
-.mi-memner-list-box {
+.mi-member-list-box {
   display: flex;
   gap: 20px;
-  position: relative
+  position: relative;
+  padding: 5%
+}
+
+.mi-member-list-img {
+  width: 100px
+}
+
+.mi-member-list-img img {
+  width: 100%;
+  max-width: 100%;
+  height: auto
 }
 
 .mi-member-text {
