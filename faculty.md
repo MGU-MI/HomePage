@@ -12,7 +12,7 @@ layout: default
   <div class="mi-member-list-cols">
     <div class="mi-member-list-box">
       <div class="mi-member-list-img">
-        <img src="{{ member.photo  | relative_url }}">
+        <img src="{{ member.photo  | relative_url }}" width="130px">
       </div>
       <div class="mi-member-text">
         <h3><a href="{{ member.url | relative_url }}">{{ member.name }} {{ member.eng_name }}</a></h3>
