@@ -9,13 +9,13 @@ layout: default
 {% assign sorted = site.faculty_members | sort: "kana" %}
 {% for member in sorted %}
   <div class="mi-member-box">
-  <img src="{{ page.photo  | relative_url }}" width="100px">
-  <div class="mi-member-text">
-    <h3><a href="{{ member.url | relative_url }}">{{ member.name }} {{ member.eng_name }}</a></h3>
-    {{ member.field }}
-    {% for key in member.keywords %}
-      <span class="mi-keywords">{{ key }}</span>
-    {% endfor %}
+    <img src="{{ page.photo  | relative_url }}" width="100px">
+    <div class="mi-member-text">
+      <h3><a href="{{ member.url | relative_url }}">{{ member.name }} {{ member.eng_name }}</a></h3>
+      {{ member.field }}
+      {% for key in member.keywords %}
+        <span class="mi-keywords">{{ key }}</span>
+      {% endfor %}
+    </div>
   </div>
 {% endfor %}
-</div>
