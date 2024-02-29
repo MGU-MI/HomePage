@@ -8,7 +8,7 @@ layout: default
 
 {% assign sorted = site.faculty_members | sort: "kana" %}
 {% for member in sorted %}
-  <div class="mi-member-box">
+  <div class="mi-memner-list-box">
     <img src="{{ member.photo  | relative_url }}" width="100px">
     <div class="mi-member-text">
       <h3><a href="{{ member.url | relative_url }}">{{ member.name }} {{ member.eng_name }}</a></h3>
