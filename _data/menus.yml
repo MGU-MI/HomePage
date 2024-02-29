@@ -1,0 +1,16 @@
+menu_list_title: Mathematical Informatics
+menu:
+- title: Top
+  url: index.html
+- title: About
+  url: about.html
+- title: カリキュラム
+  url: curriculum.html
+- title: 教員紹介
+  url: faculty.html
+- title: 就職と進路
+  url: career.html
+- title: 受験生の方へ
+  url: admissions.html
+- title: 在校生の方へ
+  url: students.html
