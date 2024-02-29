@@ -32,6 +32,12 @@ $header-bg-color-secondary: #eed9ce;
   padding: 10%
 }
 
+.mi-memner-list-box {
+  display: flex;
+  gap: 20px;
+  position: relative
+}
+
 .mi-member-text {
   text-align: left
 }
