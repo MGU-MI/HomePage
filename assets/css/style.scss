@@ -32,6 +32,15 @@ $header-bg-color-secondary: #eed9ce;
   line-height:24px
 }
 
+.mi-menus a {
+  color: #637dc1;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
 .mi-member-box {
   display: flex;
   justify-content: relative;
