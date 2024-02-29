@@ -59,3 +59,10 @@ $header-bg-color-secondary: #eed9ce;
   font-size: 12px;
   line-height:16px
 }
+
+.mi-keywords-list {
+  padding-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap:5px
+}
