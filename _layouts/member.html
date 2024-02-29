@@ -16,7 +16,7 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="mi-page-header" role="banner">
-      <img class="image" src="{{ site.logo | relative_url }}" width="60%">
+      <img class="image" src="{{ site.logo | relative_url }}" width="50%">
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -55,7 +55,7 @@
       
       <div class="mi-member-box">
         <div class="mi-member-text">
-          <h1>{{ page.name }} {{ page.position }}</h1>
+          <h1>{{ page.name }} <font size="-5">{{ page.position }}</font></h1>
           <h2>{{ page.eng_name }}</h2>
         </div>
         <img src="{{ page.photo  | relative_url }}" width="200px">
@@ -65,13 +65,9 @@
       <h3>研究分野</h3>
         {{ page.field }}
       <h3>研究キーワード</h3>
-      <table>
-        <tr>
-          {% for key in page.keywords %}
-            <td>{{ key }}</td>
-          {% endfor %}
-        </tr>
-      </table>
+      {% for key in page.keywords %}
+        <span class="mi-keywords">{{ key }}</span>
+      {% endfor %}
 
       {{ content }}
 
