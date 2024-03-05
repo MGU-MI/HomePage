@@ -24,6 +24,14 @@ layout: default
 
 ### [MATLAB](https://jp.mathworks.com/products/matlab.html)
 
+MATLABは、データ解析、可視化、アルゴリズム開発、モデル作成に使用されるプログラミング および 数値計算プラットフォームです。
+
+#### 【利用はこちらから】
+
+[明治学院大学- MATLAB ポータルサイト ログインページ](https://jp.mathworks.com/academia/tah-portal/meiji-gakuin-university-31708987.html)
+
+利用方法や、インストール方法などの詳細は、[Campus-Wide License スタートアップガイド](https://www.mathworks.com/content/dam/mathworks/guide-or-book/individual-user-start-up-guide.pdf)を参照ください。
+
 ### [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 
 ### [SPSS](https://www.ibm.com/jp-ja/spss)
