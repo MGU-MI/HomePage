@@ -22,6 +22,12 @@ layout: default
 
 ### [Microsoft 365](https://www.microsoft.com/ja-jp/microsoft-365)
 
+Microsoft 365はMicrosoft社のOfficeやクラウドサービスの総称です。
+クラウド版のOffice Onlineや最新版のOfficeソフトウェアを自身が所有しているPC・タブレット・スマートフォンに合計5台までインストールして利用することができます。
+
+- Windows用【Word、Excel、PowerPoint、Outlook、OneNote、Access、Publisher、Teams】
+- Mac用【Word、Excel、PowerPoint、Outlook、OneNote、Teams】
+
 ### [MATLAB](https://jp.mathworks.com/products/matlab.html)
 
 MATLABは、データ解析、可視化、アルゴリズム開発、モデル作成に使用されるプログラミング および 数値計算プラットフォームです。
