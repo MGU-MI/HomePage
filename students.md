@@ -28,9 +28,15 @@ Microsoft 365はMicrosoft社のOfficeやクラウドサービスの総称です�
 - Windows用【Word、Excel、PowerPoint、Outlook、OneNote、Access、Publisher、Teams】
 - Mac用【Word、Excel、PowerPoint、Outlook、OneNote、Teams】
 
+### [Azure Virtual Desktop](https://azure.microsoft.com/ja-jp/products/virtual-desktop)
+
+クラウド上のリモート仮想マシンに接続してデバイスによらずWindows環境を使用することができます。
+仮想マシン上には授業で用いるソフトウェアがプリインストールされており、大学や自宅で授業と同じ実習環境を利用できます。
+
 ### [MATLAB](https://jp.mathworks.com/products/matlab.html)
 
 MATLABは、データ解析、可視化、アルゴリズム開発、モデル作成に使用されるプログラミング および 数値計算プラットフォームです。
+AI・データサイエンスの学修に役立ちます。
 
 #### 【利用はこちらから】
 
@@ -40,4 +46,8 @@ MATLABは、データ解析、可視化、アルゴリズム開発、モデル�
 
 ### [Wolfram Mathematica](https://www.wolfram.com/mathematica/)
 
+Wolfram Mathematicaは様々な数学や科学技術計算を扱うことができる数式処理ソフトウェアです。
+
 ### [SPSS](https://www.ibm.com/jp-ja/spss)
+
+SPSSは統計解析用のソフトウェアです。
